@@ -28,38 +28,31 @@
       "description": "",
       "value": "Zylern"
     },
-    },
     "GDRIVE_FOLDER_ID": {
       "description": "",
       "value": ""
       "required": false
     },
-    },
     "OWNER_ID": {
       "description": "",
       "value": "1664850827"
-    },
     },
     "AUTO_DELETE_MESSAGE_DURATION": {
       "description": "",
       "value": "-1"
     },
-    },
     "IS_TEAM_DRIVE": {
       "description": "",
       "value": "False"
-    },
     },
     "AUTHORIZED_CHATS": {
       "description": "",
       "value": "-1001797737686"
     },
-    },
     "USE_SERVICE_ACCOUNTS": {
       "description": "",
       "value": ""
       "required": false
-    },
     },
     "INDEX_URL": {
       "description": "",
@@ -72,6 +65,5 @@
   },
   "stack": "container"
 }
-
 
 
