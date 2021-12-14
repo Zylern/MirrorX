@@ -36,7 +36,7 @@ setup(
         "Pyrogram",
         "TgCrypto",
         "yt-dlp",
-        "lxml==4.6.3",
+        "lxml==4.6.5",
         "telegraph==1.4.1",
         "speedtest-cli==2.1.3",
         "messages==0.5.0",
